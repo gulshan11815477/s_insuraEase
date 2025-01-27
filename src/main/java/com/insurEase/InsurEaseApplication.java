@@ -9,6 +9,7 @@ public class InsurEaseApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(InsurEaseApplication.class, args);
 		
+		
 	}
 
 }
