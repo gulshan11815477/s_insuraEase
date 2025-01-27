@@ -10,6 +10,7 @@ public class InsurEaseApplication {
 		SpringApplication.run(InsurEaseApplication.class, args);
 		
 		
+		
 	}
 
 }
